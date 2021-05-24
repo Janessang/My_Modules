@@ -5,5 +5,5 @@
     <string name="tvC328">C328 Intelligent Network</string>
     <string name="tvC331">C331 Digital Security and Forensics</string>
     <string name="tvC203">C203 Web AppIn Development in php</string>
-    <string name="btnReturn">Return</string>
+    <string name="btnReturn">back</string>
 </resources>

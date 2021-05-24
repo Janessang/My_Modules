@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Modules</string>
+    <string name="tvC346">C346 Mobile App Development</string>
+    <string name="tvC228">C228 Operating System Security</string>
+    <string name="tvC328">C328 Intelligent Network</string>
+    <string name="tvC331">C331 Digital Security and Forensics</string>
+    <string name="tvC203">C203 Web AppIn Development in php</string>
+    <string name="btnReturn">Return</string>
 </resources>

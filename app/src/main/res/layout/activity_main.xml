@@ -5,4 +5,33 @@
     android:layout_margin="16dp"
     android:orientation="vertical">
 
+    <TextView
+        android:id="@+id/textViewC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvC346" />
+
+    <TextView
+        android:id="@+id/textViewC228"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvC228" />
+
+    <TextView
+        android:id="@+id/textViewC328"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvC328" />
+
+    <TextView
+        android:id="@+id/textViewC331"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvC331" />
+
+    <TextView
+        android:id="@+id/textViewC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvC203" />
 </LinearLayout>
